@@ -5,3 +5,6 @@ D:\Users\kamil.jamroz\Desktop\songswears\SongSwears\obj\Debug\SongSwears.csprojA
 D:\Users\kamil.jamroz\Desktop\songswears\SongSwears\obj\Debug\SongSwears.csproj.CoreCompileInputs.cache
 D:\Users\kamil.jamroz\Desktop\songswears\SongSwears\obj\Debug\SongSwears.exe
 D:\Users\kamil.jamroz\Desktop\songswears\SongSwears\obj\Debug\SongSwears.pdb
+D:\Users\kamil.jamroz\Desktop\songswears\SongSwears\bin\Debug\Newtonsoft.Json.dll
+D:\Users\kamil.jamroz\Desktop\songswears\SongSwears\bin\Debug\Newtonsoft.Json.xml
+D:\Users\kamil.jamroz\Desktop\songswears\SongSwears\obj\Debug\SongSwears.csproj.CopyComplete
