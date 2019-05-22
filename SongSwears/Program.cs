@@ -10,6 +10,7 @@ namespace SongSwears
     {
         static void Main(string[] args)
         {
+            var songAnalysis = new SongAnalysis("Kazik", "12 groszy");
         }
     }
 }
